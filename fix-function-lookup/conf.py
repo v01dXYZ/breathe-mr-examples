@@ -52,7 +52,7 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 
 breathe_projects = {
-    "breathe_example": "xml",
+    "breathe_example": "dox/xml",
 }
 
 breathe_default_project = "breathe_example"
